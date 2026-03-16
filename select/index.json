@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ぴゅあぴゅあはーと",
+  "base_artist": "放課後ティータイム",
+  "createdAt": "2026-03-16T13:05:37.085119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと(#23『放課後!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_ぴゅあぴゅあはーと(_23『放課後!』Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/02_ぴゅあぴゅあはーと_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/03_ぴゅあぴゅあはーと_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/04_ぴゅあぴゅあはーと_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと (#23『放課後!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/05_ぴゅあぴゅあはーと_(_23『放課後!』Mix)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/06_ぴゅあぴゅあはーと_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと (Instrumental 【-Guitar1】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/07_ぴゅあぴゅあはーと_(Instrumental_【-Guitar1】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと (Instrumental 【-Guitar2】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/08_ぴゅあぴゅあはーと_(Instrumental_【-Guitar2】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと [Studio Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/09_ぴゅあぴゅあはーと_[Studio_Mix]_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": false,
+      "path": "select/10_ぴゅあぴゅあはーと_Ho_-_Kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと (Instrumental 【−Guitar1】)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/11_ぴゅあぴゅあはーと_(Instrumental_【−Guitar1】)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと (Instrumental 【−Guitar2】)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/12_ぴゅあぴゅあはーと_(Instrumental_【−Guitar2】)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/13_ぴゅあぴゅあはーと_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/14_ぴゅあぴゅあはーと_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/15_ぴゅあぴゅあはーと_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ぴゅあぴゅあはーと [Studio Mix]",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/16_ぴゅあぴゅあはーと_[Studio_Mix]_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴゅあぴゅあはーと",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/pl_01_ぴゅあぴゅあはーと_放課後ティータイム.txt"
+    }
+  ]
+}
